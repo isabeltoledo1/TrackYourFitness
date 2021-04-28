@@ -11,7 +11,7 @@ A fitness tracker app that allows the user to track their workout for the day.
   
 ### Deployed Link
     
-  
+https://sleepy-anchorage-92792.herokuapp.com/  
 
 
 ### Installation
