@@ -1,11 +1,11 @@
 # Fitness Tracker 🏋🏼‍♀️
 
 ### Desription
-
+A fitness tracker app that allows the user to track their workout for the day. 
   
 
 
-![](assets/gif.gif)
+![](assets/fitness.png)
  
   
 ### Deployed Link
