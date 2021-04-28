@@ -24,6 +24,6 @@ Npm i - to install all dependencies
  - Mongoose
  - Express
  - Node.js
- - PWA - with the use of a service worker
+ 
  
 
